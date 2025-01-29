@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 3 elements from project &apos;AutomationTest&apos;&#x0D;&#x0A;- Original project: &apos;AutomationTest&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     JoinWithInvalidMeetingLink_20241103_173854.png&#x0D;&#x0A;     JoinWithInvalidMeetingLink_20241103_174119.png&#x0D;&#x0A;     JoinWithInvalidMeetingLink_20241103_174416.png" description="Delete elements" element1="Screenshots/JoinWithInvalidMeetingLink_20241103_173854.png" element2="Screenshots/JoinWithInvalidMeetingLink_20241103_174416.png" element3="Screenshots/JoinWithInvalidMeetingLink_20241103_174119.png" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="3" stamp="1730634597853" subPackages="false" version="1.0"/>
+</session>
